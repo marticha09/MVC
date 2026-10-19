@@ -1,0 +1,7 @@
+C:\Users\1212-2\Desktop\11а mbt PROekt MH\ZELEN4UKOVA BORSA\obj\Debug\ZELEN4UKOVA BORSA.csproj.AssemblyReference.cache
+C:\Users\1212-2\Desktop\11а mbt PROekt MH\ZELEN4UKOVA BORSA\obj\Debug\ZELEN4UKOVA BORSA.csproj.CoreCompileInputs.cache
+C:\Users\1212-2\Desktop\11а mbt PROekt MH\ZELEN4UKOVA BORSA\bin\Debug\ZELEN4UKOVA BORSA.exe.config
+C:\Users\1212-2\Desktop\11а mbt PROekt MH\ZELEN4UKOVA BORSA\bin\Debug\ZELEN4UKOVA BORSA.exe
+C:\Users\1212-2\Desktop\11а mbt PROekt MH\ZELEN4UKOVA BORSA\bin\Debug\ZELEN4UKOVA BORSA.pdb
+C:\Users\1212-2\Desktop\11а mbt PROekt MH\ZELEN4UKOVA BORSA\obj\Debug\ZELEN4UKOVA BORSA.exe
+C:\Users\1212-2\Desktop\11а mbt PROekt MH\ZELEN4UKOVA BORSA\obj\Debug\ZELEN4UKOVA BORSA.pdb
